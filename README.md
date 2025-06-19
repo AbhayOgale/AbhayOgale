@@ -1,8 +1,8 @@
 # Hi 👋, I'm ABHAY OGALE
 ### Aspiring Data Scientist | Data Analyst
 
-- 💬 Ask me about **Python, Power BI, SQL, Excel, Machine Learning**
-- 📫 How to reach me: abhay.ogale@example.com
+- 💬 Ask me about **Python, Machine Learning, Power BI, Tableau, SQL, Excel **
+- 📫 How to reach me: abhayogaleprofessional@example.com
 - ⚡ Fun fact: I love crunching numbers and storytelling with data!
 
 ---
