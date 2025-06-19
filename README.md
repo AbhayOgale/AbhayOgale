@@ -35,5 +35,4 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-## 🌐 Add a Visitor Badge
-![Visitor Badge](https://komarev.com/ghpvc/?username=AbhayOgale&style=flat-square&color=blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhayOgale&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
