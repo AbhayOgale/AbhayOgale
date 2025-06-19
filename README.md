@@ -28,3 +28,5 @@
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/abhay-r-ogale-529833331/)
 
+## Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayOgale&layout=compact&theme=github_dark" />
