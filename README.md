@@ -8,8 +8,11 @@
 ---
 
 ## 🛠️ Licenses & certifications
-![Data Analyst](https://www.linkedin.com/in/abhay-r-ogale-529833331/details/certifications/)
-![Data Science](https://www.linkedin.com/in/abhay-r-ogale-529833331/details/certifications/)
+
+[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Certificate-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhay-r-ogale-529833331/details/certifications/)
+
+[![Data Science](https://img.shields.io/badge/Data%20Science-Certificate-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhay-r-ogale-529833331/details/certifications/)
+
 
 ---
 
