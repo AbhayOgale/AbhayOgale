@@ -30,3 +30,6 @@
 
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayOgale&layout=compact&theme=github_dark" />
+
+## 🌐 Add a Visitor Badge
+![Visitor Badge](https://komarev.com/ghpvc/?username=AbhayOgale&style=flat-square&color=blue)
