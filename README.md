@@ -1,5 +1,5 @@
 # Hi 👋, I'm ABHAY OGALE
-### A passionate DATA ANALYST
+### Aspiring Data Scientist | Data Analyst
 
 - 💬 Ask me about **Python, Power BI, SQL, Excel, Machine Learning**
 - 📫 How to reach me: abhay.ogale@example.com
