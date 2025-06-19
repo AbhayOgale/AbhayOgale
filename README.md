@@ -28,8 +28,12 @@
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/abhay-r-ogale-529833331/)
 
-## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayOgale&layout=compact&theme=github_dark" />
+## 💻 Languages I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ## 🌐 Add a Visitor Badge
 ![Visitor Badge](https://komarev.com/ghpvc/?username=AbhayOgale&style=flat-square&color=blue)
