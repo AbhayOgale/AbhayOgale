@@ -7,12 +7,9 @@
 
 ---
 
-## 🛠️ Tools & Technologies
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## 🛠️ Licenses & certifications
+![Data Analyst](https://www.linkedin.com/in/abhay-r-ogale-529833331/details/certifications/)
+![Data Science](https://www.linkedin.com/in/abhay-r-ogale-529833331/details/certifications/)
 
 ---
 
